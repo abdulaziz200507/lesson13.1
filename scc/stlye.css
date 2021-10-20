@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    box-decoration-break: clone;
+}
+.child{
+   display: flex;
+   text-align: center;
+   font-style: italic;
+   
+   
+}
+.child1{
+    text-align: center;
+}
+.child3{
+    display: flex;
+    text-align: center;
+    font-style: oblique;
+}
+  
